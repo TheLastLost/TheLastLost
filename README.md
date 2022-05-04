@@ -8,7 +8,7 @@
             <b>
             Hello There
         <br>
-            I'm TheLastLost, a Student, and Linux enthusiast.
+            I'm th3l4stl0st, a Student, and Linux enthusiast.
             </b>
         <br>
         <br>
