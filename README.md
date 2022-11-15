@@ -15,7 +15,7 @@
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=In+code+we+trust.">
         <br>
             <b>
-            ~ Alejandro Habernaud Mora ~
+            ~ Alejandro Habernaud ~
             </b>
         <br>
       </samp><br>
